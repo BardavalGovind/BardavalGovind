@@ -2,28 +2,71 @@
 <img src="https://github.com/user-attachments/assets/d3d8c675-296e-49ae-a74e-4aa35a43c290" alt="img" width="3300" height="350"/>
 
 
+# Hi 👋, I'm Bardaval Govind
 
-
-
-<h1 align="center">Hi 👋, I'm Bardaval Govind</h1>
-<h3 align="center"> passionate FullStack Web developer</h3>
-
-
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bardaval-jagadeesh&label=Profile%20views&color=0e75b6&style=flat" alt="bardaval-jagadeesh" /> </p>
-
-
-- 👨‍💻 My portfolio 
-
-- 📫 How to reach me **bardavalgovind2005@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bardavalgovind/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bardavalgovind/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bardavalgovind" target="blank"><img align="center" src="https://img.icons8.com/?size=80&id=eqDiO9L02aEu&format=png" alt="https://www.codechef.com/users/bardavalgovind" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/bardavalgovind21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/bardavalgovind21" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Bardaval_Govind/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Bardaval_Govind/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C7D3&center=true&width=700&lines=BTech+in+Progress...+Debugging+Life+and+Code+Alike;Full-Stack+Developer" />
 </p>
+
+
+
+
+---
+
+### 🚀 About Me
+- 🔭 I’m currently exploring **new technologies and applying them to real-world projects**
+- 🌱 I’m focusing on **Full Stack Web Development & DSA**
+- 👨‍💻 Check out my projects at **[Portfolio]**
+- 📫 Reach me at **bardavalgovind2005@gmail.com**
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1ZEZtPM4YDpFSjuw9pTN7PNgJfwtjPdgT/view?usp=sharing)**
+
+---
+
+### ⚡️ Where to Find Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/bardavalgovind/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+</a>
+<a href="mailto:bardavalgovind2005@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+</a>
+</p>
+
+---
+
+### 🚀 Technologies & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,git,mysql,html,css,tailwind,bootstrap,vercel,figma,postman&theme=dark" />
+</p>
+
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BardavalGovind&theme=dark&hide_border=true" height="180" alt="streak graph" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=BardavalGovind&show_icons=true&theme=dark&hide_border=true" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BardavalGovind&layout=compact&theme=dark&hide_border=true" height="180" alt="Top languages" />
+</p>
+
+---
+
+### 🚀 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BardavalGovind&radius=16&theme=one-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</p>
+
+
+---
+
+### 💡 Random Dev Quote
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?quote=First%2C+solve+the+problem.+Then%2C+write+the+code.&theme=dark&font=Redressed&animation=grow_out_in" alt="Random Quote" />
+</p>
+
+
+
+---
+
 
 

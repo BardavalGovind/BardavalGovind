@@ -18,7 +18,7 @@
 - 🌱 I’m focusing on **Full Stack Web Development & DSA**
 - 👨‍💻 Check out my projects at **[Portfolio]**
 - 📫 Reach me at **bardavalgovind2005@gmail.com**
-- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1ZEZtPM4YDpFSjuw9pTN7PNgJfwtjPdgT/view?usp=sharing)**
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/170FQoc5XjDyRoRgMBGbpTM-YWkbIs1GC/view?usp=sharing)**
 
 ---
 
